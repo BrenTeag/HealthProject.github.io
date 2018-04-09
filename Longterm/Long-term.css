@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  line-height: 1.5;
+  font-family: arial;
+}
+
+.header-hp-spec {
+  background-image:url(http://iliketowastemytime.com/sites/default/files/night-sky-hd-wallpaper.jpg);
+  height: 400px;
+  text-align: center;
+  font-size: 20px;
+  box-shadow: 0px 6px;
+}
+
+.header-text {
+  font-size: 40px;
+  margin-top: -350px;
+  color: ;
+  text-align: center;
+}
+
+.middle {
+  font-size: 30px;
+  margin-top:160px;
+}
+
+.middle-text {
+  text-align: center;
+}
+
+.middle-list {
+  text-align: left;
+}
+
+.credits-color {
+  text-align: center;
+  margin-top: 20px;
+  background: #f7faff;
+}
+
+.Facts {
+  text-align: center;
+}
+
+.homepage {
+  margin-top: -390px;
+  font-size: 25px;
+  text-decoration: none;
+  border: 1px solid black;
+  border-radius: 18px;
+  padding: 4px;
+  color: #000;
+  background-color: #fff;
+  opacity: .2;
+  transition: background .8s ease,
+            padding .2s ease;
+}
+
+.Homepage:hover {
+  margin-top: -390px;
+  font-size: 25;
+  text-decoration: none;
+  border: 1px solid black;
+  border-radius: 18px;
+  padding: 6px;
+  color: #fff;
+  opacity: 1;
+  background-color: #000;
+  transition: background .8s ease,
+            padding .2s ease;
+}
+
+.bottom {
+  text-align: center;
+  margin-top: 70px;
+  background: #f7faff;
+}

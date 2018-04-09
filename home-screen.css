@@ -1,0 +1,112 @@
+* {
+  margin:0;
+  line-height: 1.5;
+  font-family: arial;
+}
+
+.Header {
+
+}
+
+.Header-Color {
+  background-image:url(http://iliketowastemytime.com/sites/default/files/night-sky-hd-wallpaper.jpg);
+  height: 400px;
+  text-align: center;
+  font-size: 20px;
+  box-shadow: 0px 6px;
+}
+
+.header-text {
+  font-size: 40px;
+  margin-top: -350px;
+  color: ;
+  text-align: center;
+}
+
+.Middle-text {
+  text-align: center;
+  margin-top: 125px;
+  font-size: 30px;
+}
+
+.Middle-text-effects {
+  font-size: 33px;
+  margin-top: -25px
+}
+
+.LT-link {
+  font-size: 25px;
+  text-decoration: none;
+  border: 1px solid black;
+  border-radius: 18px;
+  padding: 4px;
+  color: #000;
+  transition: background .8s ease,
+            padding .2s ease;
+}
+
+.LT-link:hover {
+  font-size: 25px;
+  text-decoration: none;
+  border: 1px solid black;
+  border-radius: 18px;
+  padding: 6px;
+  color: #fff;
+  background-color: #000;
+  transition: background .8s ease,
+            padding .2s ease;
+}
+
+.ST-link {
+  font-size: 25px;
+  text-decoration: none;
+  border: 1px solid black;
+  border-radius: 18px;
+  padding: 4px;
+  color: #000;
+  transition: background .8s ease,
+            padding .2s ease;
+}
+
+.ST-link:hover {
+  font-size: 25;
+  text-decoration: none;
+  border: 1px solid black;
+  border-radius: 18px;
+  padding: 6px;
+  color: #fff;
+  background-color: #000;
+  transition: background .8s ease,
+            padding .2s ease;
+}
+
+.OI-links {
+  margin-top: 10px;
+  font-size: 25px;
+  text-decoration: none;
+  border: 1px solid black;
+  border-radius: 18px;
+  padding: 4px;
+  color: #000;
+  transition: background .8s ease,
+            padding .2s ease;
+}
+
+.OI-links:hover {
+  margin-top: 10px;
+  font-size: 25;
+  text-decoration: none;
+  border: 1px solid black;
+  border-radius: 18px;
+  padding: 6px;
+  color: #fff;
+  background-color: #000;
+  transition: background .8s ease,
+            padding .2s ease;
+}
+
+.bottom {
+  text-align: center;
+  margin-top: 350px;
+  background: #f7faff;
+}
